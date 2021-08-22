@@ -1,9 +1,9 @@
 const os = process
 global.DeveloperMode = 'false' //true Or false
-global.owner = ['33623746892', '6289504585790'] || os.env["OWNER_NUMBER"]// Put your number here
-global.linkGC = ['http://bit.ly/Grupgabutbotv1']
-global.mods = ['33623746892', '6289504585790'] // Want some help?
-global.prems = ['33623746892', '6289504585790'] // Premium user has unlimited limit
+global.owner = ['33623746892', '628871746203'] || os.env["OWNER_NUMBER"]// Put your number here
+global.linkGC = ['https://chat.whatsapp.com/HtupgW2zN9C6aNzktp3bX9']
+global.mods = ['33623746892', '628871746203'] // Want some help?
+global.prems = ['33623746892', '628871746203'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
